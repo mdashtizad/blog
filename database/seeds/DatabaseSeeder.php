@@ -19,15 +19,6 @@ class DatabaseSeeder extends Seeder
             'email' => 'farshadfakhar@gmail.com',
             'password' => 'adadwad'
         ]);
-        User::create([
-            'name' => 'farshad',
-            'email' => 'farshadfakhar1@gmail.com',
-            'password' => 'adadwad'
-        ]);
-        User::create([
-            'name' => 'farshad',
-            'email' => 'farshadfakha2r@gmail.com',
-            'password' => 'adadwad'
-        ]);
+        
     }
 }
